@@ -4,7 +4,7 @@
 ## 👥 Réalisé par :
 - CARRARA Tim
 - ROSE Mathéo
-- 
+  
 ## 📝 Description du Projet
 
 Ce projet explore trois méthodes d’authentification et de gestion des sessions via des mini-projets utilisant **Vue.js** en frontend et **Node.js** en backend.
